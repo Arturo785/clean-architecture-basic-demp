@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/0db1048e2f3ee62efe07b00d1f8e18bf/jetified-room-ktx-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9a3ee9aca8592f5a1f6b75c663daeee/constraintlayout-2.0.0-beta2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/00315b00f6a8714093fe0f5393cf27e9/jetified-PhotoView-2.3.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/bb8d6eafbdc980757a935ed2a2026d61/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a85a43e179e3f17dd940d6d2dc04e5d8/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/fc599d90aed2919beb4faf4e1a7bd12f/jetified-core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ec83469f29a7cdb17d78f41954ffbe84/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b0e96543f09b0a322600cea67b3a66db/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d047bb7150d0832bcff3afd6e4534e0a/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d94d8d20cc2a356e6cb8f5ae7107186/jetified-lifecycle-viewmodel-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/9919b7881dfe0fdca6ba0dc947f16ec9/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8a5890ecfc59b065a574d951a947db72/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b104f0056421715b24a3517175653641/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d0d4e0e94737581b3960f3183ffc2855/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4aee7eaf3eb56895d03a812ed6cb8eaf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/80058d01c31cd86c01e353f2a063588c/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f704e78ad46b9e5b93b6572e4fa4c5f6/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/214d4a538b998e5c281a90d989c85bf8/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/51b077f0208de56f986e9f8864cbc476/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f7ff58630f33b358e8dc1216be746d94/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b696e41bd74fecddc2ec845745a73df0/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a1419c4ddf2fbe9b91696398ea267d0b/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8556db203ee7e122733bc765a1c2b44b/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b6e94849dfed1745406f71cc1dbbfc96/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8971fc8830dde9366dad6ade9e554e6c/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ff95f03f19e2c44d4ee0ce2f85929fd4/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9184e91941817dd5e33047236e7f1d7/core-1.1.0-rc01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/938213259ec4e79d7fa9f6d127742195/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d0c7536cc60327237867920b9e0dc063/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/457de0cdcc4d5cd8e905d634d3f4b5bc/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/91377d02d8e3650672f6168e5bba1ce3/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/98688641f2b92467c432ed400afe81a0/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d5c88bdb4a73371bea5449e410906d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a908db23feccc0a52d924185fda5f380/core-runtime-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d083001b8f0d45b0f853c48742d2e95/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/526da7803f7db2c0fcb97c5872335eba/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/3f02f15d151c777c54213aba19ace3d0/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/e2cfe2697f58746826260c50f28eed14/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/3fc0b316b798ad9bc58436609ddcf242/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/6409ceade8c4dca0005eda68b6cc7e6e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/42f265e9be62f8061d5ddc27eaeac9a1/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b57fa5bb02ea1ac910493b0108131caa/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/73300edc10a35b74d652b267c834ceee/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:11-61
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:5:3-27:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9a3ee9aca8592f5a1f6b75c663daeee/constraintlayout-2.0.0-beta2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9a3ee9aca8592f5a1f6b75c663daeee/constraintlayout-2.0.0-beta2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/bb8d6eafbdc980757a935ed2a2026d61/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/bb8d6eafbdc980757a935ed2a2026d61/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ec83469f29a7cdb17d78f41954ffbe84/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ec83469f29a7cdb17d78f41954ffbe84/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d047bb7150d0832bcff3afd6e4534e0a/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d047bb7150d0832bcff3afd6e4534e0a/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9184e91941817dd5e33047236e7f1d7/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9184e91941817dd5e33047236e7f1d7/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/938213259ec4e79d7fa9f6d127742195/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/938213259ec4e79d7fa9f6d127742195/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d083001b8f0d45b0f853c48742d2e95/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d083001b8f0d45b0f853c48742d2e95/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9184e91941817dd5e33047236e7f1d7/core-1.1.0-rc01/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:9:7-58
+activity#com.raywenderlich.android.majesticreader.presentation.MainActivity
+ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:13:5-17:16
+	android:label
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:15:9-52
+	android:theme
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:14:9-50
+activity#com.raywenderlich.android.majesticreader.presentation.SplashActivity
+ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:20:15-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/0db1048e2f3ee62efe07b00d1f8e18bf/jetified-room-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/0db1048e2f3ee62efe07b00d1f8e18bf/jetified-room-ktx-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9a3ee9aca8592f5a1f6b75c663daeee/constraintlayout-2.0.0-beta2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9a3ee9aca8592f5a1f6b75c663daeee/constraintlayout-2.0.0-beta2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/00315b00f6a8714093fe0f5393cf27e9/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/00315b00f6a8714093fe0f5393cf27e9/jetified-PhotoView-2.3.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/bb8d6eafbdc980757a935ed2a2026d61/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/bb8d6eafbdc980757a935ed2a2026d61/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a85a43e179e3f17dd940d6d2dc04e5d8/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a85a43e179e3f17dd940d6d2dc04e5d8/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/fc599d90aed2919beb4faf4e1a7bd12f/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/fc599d90aed2919beb4faf4e1a7bd12f/jetified-core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ec83469f29a7cdb17d78f41954ffbe84/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ec83469f29a7cdb17d78f41954ffbe84/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b0e96543f09b0a322600cea67b3a66db/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b0e96543f09b0a322600cea67b3a66db/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d047bb7150d0832bcff3afd6e4534e0a/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d047bb7150d0832bcff3afd6e4534e0a/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d94d8d20cc2a356e6cb8f5ae7107186/jetified-lifecycle-viewmodel-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d94d8d20cc2a356e6cb8f5ae7107186/jetified-lifecycle-viewmodel-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/9919b7881dfe0fdca6ba0dc947f16ec9/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/9919b7881dfe0fdca6ba0dc947f16ec9/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8a5890ecfc59b065a574d951a947db72/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8a5890ecfc59b065a574d951a947db72/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b104f0056421715b24a3517175653641/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b104f0056421715b24a3517175653641/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d0d4e0e94737581b3960f3183ffc2855/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d0d4e0e94737581b3960f3183ffc2855/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4aee7eaf3eb56895d03a812ed6cb8eaf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4aee7eaf3eb56895d03a812ed6cb8eaf/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/80058d01c31cd86c01e353f2a063588c/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/80058d01c31cd86c01e353f2a063588c/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f704e78ad46b9e5b93b6572e4fa4c5f6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f704e78ad46b9e5b93b6572e4fa4c5f6/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/214d4a538b998e5c281a90d989c85bf8/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/214d4a538b998e5c281a90d989c85bf8/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/51b077f0208de56f986e9f8864cbc476/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/51b077f0208de56f986e9f8864cbc476/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f7ff58630f33b358e8dc1216be746d94/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f7ff58630f33b358e8dc1216be746d94/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b696e41bd74fecddc2ec845745a73df0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b696e41bd74fecddc2ec845745a73df0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a1419c4ddf2fbe9b91696398ea267d0b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a1419c4ddf2fbe9b91696398ea267d0b/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8556db203ee7e122733bc765a1c2b44b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8556db203ee7e122733bc765a1c2b44b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b6e94849dfed1745406f71cc1dbbfc96/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b6e94849dfed1745406f71cc1dbbfc96/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8971fc8830dde9366dad6ade9e554e6c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/8971fc8830dde9366dad6ade9e554e6c/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ff95f03f19e2c44d4ee0ce2f85929fd4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/ff95f03f19e2c44d4ee0ce2f85929fd4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9184e91941817dd5e33047236e7f1d7/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a9184e91941817dd5e33047236e7f1d7/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/938213259ec4e79d7fa9f6d127742195/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/938213259ec4e79d7fa9f6d127742195/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d0c7536cc60327237867920b9e0dc063/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/d0c7536cc60327237867920b9e0dc063/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/457de0cdcc4d5cd8e905d634d3f4b5bc/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/457de0cdcc4d5cd8e905d634d3f4b5bc/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/91377d02d8e3650672f6168e5bba1ce3/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/91377d02d8e3650672f6168e5bba1ce3/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/98688641f2b92467c432ed400afe81a0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/98688641f2b92467c432ed400afe81a0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d5c88bdb4a73371bea5449e410906d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d5c88bdb4a73371bea5449e410906d4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a908db23feccc0a52d924185fda5f380/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a908db23feccc0a52d924185fda5f380/core-runtime-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d083001b8f0d45b0f853c48742d2e95/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/4d083001b8f0d45b0f853c48742d2e95/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/526da7803f7db2c0fcb97c5872335eba/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/526da7803f7db2c0fcb97c5872335eba/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/3f02f15d151c777c54213aba19ace3d0/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/3f02f15d151c777c54213aba19ace3d0/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/e2cfe2697f58746826260c50f28eed14/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/e2cfe2697f58746826260c50f28eed14/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/3fc0b316b798ad9bc58436609ddcf242/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/3fc0b316b798ad9bc58436609ddcf242/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/6409ceade8c4dca0005eda68b6cc7e6e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/6409ceade8c4dca0005eda68b6cc7e6e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/42f265e9be62f8061d5ddc27eaeac9a1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/42f265e9be62f8061d5ddc27eaeac9a1/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b57fa5bb02ea1ac910493b0108131caa/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/b57fa5bb02ea1ac910493b0108131caa/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/73300edc10a35b74d652b267c834ceee/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/73300edc10a35b74d652b267c834ceee/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vn53fry/Documents/android/starter/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/f0b65dc683a72930df90dcf190ee1f64/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/vn53fry/.gradle/caches/transforms-2/files-2.1/a7943d33372089e9e9c233e0a36284c6/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

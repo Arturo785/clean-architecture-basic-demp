@@ -1,0 +1,13 @@
+com/raywenderlich/android/majesticreader/BuildConfig.java
+ com.raywenderlich.android.majesticreader.BuildConfig
+com/raywenderlich/android/majesticreader/framework/db/BookmarkDao_Impl.java
+ com.raywenderlich.android.majesticreader.framework.db.BookmarkDao_Impl
+ com.raywenderlich.android.majesticreader.framework.db.BookmarkDao_Impl$1
+ com.raywenderlich.android.majesticreader.framework.db.BookmarkDao_Impl$2
+com/raywenderlich/android/majesticreader/framework/db/DocumentDao_Impl.java
+ com.raywenderlich.android.majesticreader.framework.db.DocumentDao_Impl
+ com.raywenderlich.android.majesticreader.framework.db.DocumentDao_Impl$1
+ com.raywenderlich.android.majesticreader.framework.db.DocumentDao_Impl$2
+com/raywenderlich/android/majesticreader/framework/db/MajesticReaderDatabase_Impl.java
+ com.raywenderlich.android.majesticreader.framework.db.MajesticReaderDatabase_Impl
+ com.raywenderlich.android.majesticreader.framework.db.MajesticReaderDatabase_Impl$1

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-ktx:2.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/23f359b09fc56e00c0e3ec4f0c5adbe9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4b26434dc315e26d1c5514c08ca73cf5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0db1048e2f3ee62efe07b00d1f8e18bf/jetified-room-ktx-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0db1048e2f3ee62efe07b00d1f8e18bf/jetified-room-ktx-2.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0db1048e2f3ee62efe07b00d1f8e18bf/jetified-room-ktx-2.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-ktx/2.1.0/29d0ce88ac94314fceb9dac74db86a78f61698b5/room-ktx-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
